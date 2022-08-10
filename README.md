@@ -13,7 +13,8 @@ function foo(bar) {
 - unordere
 - list
 
-1. an
-2. ordered
-3. list
-`
+```javascript
+function foobar(arg1, arg2) {
+    console.log("Hello Foo Bar)
+}
+```
